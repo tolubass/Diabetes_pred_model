@@ -1,0 +1,1522 @@
+2025-02-26 13:10:09,954 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-26 13:10:09,954 INFO: [33mPress CTRL+C to quit[0m
+2025-02-26 13:10:09,957 INFO:  * Restarting with stat
+2025-02-26 13:10:11,721 WARNING:  * Debugger is active!
+2025-02-26 13:10:11,728 INFO:  * Debugger PIN: 148-564-864
+2025-02-26 13:13:00,650 INFO: Hone page accessed
+2025-02-26 13:13:00,714 INFO: 127.0.0.1 - - [26/Feb/2025 13:13:00] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-02-26 13:13:01,503 INFO: 127.0.0.1 - - [26/Feb/2025 13:13:01] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-02-26 13:13:01,505 INFO: 127.0.0.1 - - [26/Feb/2025 13:13:01] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-02-26 13:13:01,636 INFO: 127.0.0.1 - - [26/Feb/2025 13:13:01] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=pTy5tJs9bQWWyashsyJF HTTP/1.1" 200 -
+2025-02-26 13:13:02,038 INFO: 127.0.0.1 - - [26/Feb/2025 13:13:02] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-02-26 13:17:29,283 INFO: Current working directory:C:\Users\hp\Desktop\diabetes_folder_prediction
+2025-02-26 13:17:29,284 INFO: Template folder exists:True
+2025-02-26 13:17:29,284 INFO: index.html exists:True
+2025-02-26 13:17:29,456 INFO: Current working directory:C:\Users\hp\Desktop\diabetes_folder_prediction
+2025-02-26 13:17:29,457 INFO: Template folder exists:True
+2025-02-26 13:17:29,457 INFO: index.html exists:True
+2025-02-26 13:17:32,131 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-26 13:17:32,133 INFO: [33mPress CTRL+C to quit[0m
+2025-02-26 13:17:32,136 INFO:  * Restarting with stat
+2025-02-26 13:17:33,861 WARNING:  * Debugger is active!
+2025-02-26 13:17:33,868 INFO:  * Debugger PIN: 148-564-864
+2025-02-26 13:17:43,220 INFO: Hone page accessed
+2025-02-26 13:17:43,275 INFO: 127.0.0.1 - - [26/Feb/2025 13:17:43] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-02-26 13:17:44,252 INFO: 127.0.0.1 - - [26/Feb/2025 13:17:44] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-26 13:17:44,321 INFO: 127.0.0.1 - - [26/Feb/2025 13:17:44] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-02-26 13:17:44,371 INFO: 127.0.0.1 - - [26/Feb/2025 13:17:44] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=xvtPT2YotxuRUEgtOdc3 HTTP/1.1" 200 -
+2025-02-26 13:17:44,569 INFO: 127.0.0.1 - - [26/Feb/2025 13:17:44] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-26 13:17:50,131 INFO: Hone page accessed
+2025-02-26 13:17:50,221 INFO: 127.0.0.1 - - [26/Feb/2025 13:17:50] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-02-26 13:17:50,274 INFO: 127.0.0.1 - - [26/Feb/2025 13:17:50] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-26 13:17:50,274 INFO: 127.0.0.1 - - [26/Feb/2025 13:17:50] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-02-26 13:17:50,299 INFO: 127.0.0.1 - - [26/Feb/2025 13:17:50] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=xvtPT2YotxuRUEgtOdc3 HTTP/1.1[0m" 304 -
+2025-02-26 13:17:50,492 INFO: 127.0.0.1 - - [26/Feb/2025 13:17:50] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-26 13:23:35,870 INFO: Current working directory:C:\Users\hp\Desktop\diabetes_folder_prediction
+2025-02-26 13:23:35,870 INFO: Template folder exists:True
+2025-02-26 13:23:35,871 INFO: index.html exists:True
+2025-02-26 13:23:36,009 INFO: Current working directory:C:\Users\hp\Desktop\diabetes_folder_prediction
+2025-02-26 13:23:36,010 INFO: Template folder exists:True
+2025-02-26 13:23:36,010 INFO: index.html exists:True
+2025-02-26 13:23:38,298 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-26 13:23:38,298 INFO: [33mPress CTRL+C to quit[0m
+2025-02-26 13:23:38,301 INFO:  * Restarting with stat
+2025-02-26 13:23:39,917 WARNING:  * Debugger is active!
+2025-02-26 13:23:39,924 INFO:  * Debugger PIN: 148-564-864
+2025-02-26 13:23:46,134 INFO: Hone page accessed
+2025-02-26 13:23:46,352 INFO: 127.0.0.1 - - [26/Feb/2025 13:23:46] "GET / HTTP/1.1" 200 -
+2025-02-26 13:23:54,252 INFO: Hone page accessed
+2025-02-26 13:23:54,253 INFO: 127.0.0.1 - - [26/Feb/2025 13:23:54] "GET / HTTP/1.1" 200 -
+2025-02-26 13:24:12,443 INFO: Hone page accessed
+2025-02-26 13:24:12,445 INFO: 127.0.0.1 - - [26/Feb/2025 13:24:12] "GET / HTTP/1.1" 200 -
+2025-02-26 13:26:29,551 INFO: Hone page accessed
+2025-02-26 13:26:29,552 INFO: 127.0.0.1 - - [26/Feb/2025 13:26:29] "GET / HTTP/1.1" 200 -
+2025-02-26 13:26:34,843 INFO: Hone page accessed
+2025-02-26 13:26:34,844 INFO: 127.0.0.1 - - [26/Feb/2025 13:26:34] "GET / HTTP/1.1" 200 -
+2025-02-26 13:26:57,128 INFO: Hone page accessed
+2025-02-26 13:26:57,129 INFO: 127.0.0.1 - - [26/Feb/2025 13:26:57] "GET / HTTP/1.1" 200 -
+2025-02-26 13:27:07,148 INFO: Hone page accessed
+2025-02-26 13:27:07,150 INFO: 127.0.0.1 - - [26/Feb/2025 13:27:07] "GET / HTTP/1.1" 200 -
+2025-02-26 13:28:43,306 INFO: Hone page accessed
+2025-02-26 13:28:43,306 INFO: 127.0.0.1 - - [26/Feb/2025 13:28:43] "GET / HTTP/1.1" 200 -
+2025-02-26 13:28:50,391 INFO: Hone page accessed
+2025-02-26 13:28:50,393 INFO: 127.0.0.1 - - [26/Feb/2025 13:28:50] "GET / HTTP/1.1" 200 -
+2025-02-26 13:29:23,580 INFO: Hone page accessed
+2025-02-26 13:29:23,581 INFO: 127.0.0.1 - - [26/Feb/2025 13:29:23] "GET / HTTP/1.1" 200 -
+2025-02-26 13:31:34,419 INFO: Current working directory:C:\Users\hp\Desktop\diabetes_folder_prediction
+2025-02-26 13:31:34,420 INFO: Template folder exists:True
+2025-02-26 13:31:34,420 INFO: index.html exists:True
+2025-02-26 13:31:34,560 INFO: Current working directory:C:\Users\hp\Desktop\diabetes_folder_prediction
+2025-02-26 13:31:34,560 INFO: Template folder exists:True
+2025-02-26 13:31:34,560 INFO: index.html exists:True
+2025-02-26 13:31:36,602 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.138:5000
+2025-02-26 13:31:36,602 INFO: [33mPress CTRL+C to quit[0m
+2025-02-26 13:31:36,605 INFO:  * Restarting with stat
+2025-02-26 13:31:38,409 WARNING:  * Debugger is active!
+2025-02-26 13:31:38,415 INFO:  * Debugger PIN: 148-564-864
+2025-02-26 13:32:01,393 INFO: Hone page accessed
+2025-02-26 13:32:01,402 INFO: 127.0.0.1 - - [26/Feb/2025 13:32:01] "GET / HTTP/1.1" 200 -
+2025-02-26 13:33:19,301 INFO: 127.0.0.1 - - [26/Feb/2025 13:33:19] "[33mGET /diabetes.html HTTP/1.1[0m" 404 -
+2025-02-26 13:36:01,184 INFO: Current working directory:C:\Users\hp\Desktop\diabetes_folder_prediction
+2025-02-26 13:36:01,184 INFO: Template folder exists:True
+2025-02-26 13:36:01,185 INFO: index.html exists:True
+2025-02-26 13:36:01,323 INFO: Current working directory:C:\Users\hp\Desktop\diabetes_folder_prediction
+2025-02-26 13:36:01,323 INFO: Template folder exists:True
+2025-02-26 13:36:01,323 INFO: index.html exists:True
+2025-02-26 13:36:03,187 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.138:5000
+2025-02-26 13:36:03,187 INFO: [33mPress CTRL+C to quit[0m
+2025-02-26 13:36:03,190 INFO:  * Restarting with stat
+2025-02-26 13:36:04,773 WARNING:  * Debugger is active!
+2025-02-26 13:36:04,780 INFO:  * Debugger PIN: 148-564-864
+2025-02-26 13:36:37,535 INFO: 127.0.0.1 - - [26/Feb/2025 13:36:37] "[33mGET /diabetes.html HTTP/1.1[0m" 404 -
+2025-02-26 13:36:40,550 INFO: 127.0.0.1 - - [26/Feb/2025 13:36:40] "[33mGET /diabetes.html HTTP/1.1[0m" 404 -
+2025-02-26 13:36:45,861 INFO: Hone page accessed
+2025-02-26 13:36:45,884 INFO: 127.0.0.1 - - [26/Feb/2025 13:36:45] "GET / HTTP/1.1" 200 -
+2025-02-26 13:42:07,728 INFO: Current working directory:C:\Users\hp\Desktop\diabetes_folder_prediction
+2025-02-26 13:42:07,728 INFO: Template folder exists:True
+2025-02-26 13:42:07,728 INFO: index.html exists:True
+2025-02-26 13:42:07,861 INFO: Current working directory:C:\Users\hp\Desktop\diabetes_folder_prediction
+2025-02-26 13:42:07,861 INFO: Template folder exists:True
+2025-02-26 13:42:07,861 INFO: index.html exists:True
+2025-02-26 13:42:10,064 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-26 13:42:10,064 INFO: [33mPress CTRL+C to quit[0m
+2025-02-26 13:42:10,068 INFO:  * Restarting with stat
+2025-02-26 13:42:11,653 WARNING:  * Debugger is active!
+2025-02-26 13:42:11,659 INFO:  * Debugger PIN: 148-564-864
+2025-02-26 13:46:21,396 INFO: Hone page accessed
+2025-02-26 13:46:21,406 INFO: 127.0.0.1 - - [26/Feb/2025 13:46:21] "GET / HTTP/1.1" 200 -
+2025-02-26 13:46:48,366 INFO: Hone page accessed
+2025-02-26 13:46:48,367 INFO: 127.0.0.1 - - [26/Feb/2025 13:46:48] "GET / HTTP/1.1" 200 -
+2025-02-26 13:55:58,930 INFO: Current working directory:C:\Users\hp\Desktop\diabetes_folder_prediction
+2025-02-26 13:55:58,931 INFO: Template folder exists:True
+2025-02-26 13:55:58,931 INFO: index.html exists:True
+2025-02-26 13:55:59,100 INFO: Current working directory:C:\Users\hp\Desktop\diabetes_folder_prediction
+2025-02-26 13:55:59,100 INFO: Template folder exists:True
+2025-02-26 13:55:59,101 INFO: index.html exists:True
+2025-02-26 13:58:59,786 INFO: Starting Flask application...
+2025-02-26 13:58:59,844 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-26 13:58:59,844 INFO: [33mPress CTRL+C to quit[0m
+2025-02-26 13:58:59,848 INFO:  * Restarting with stat
+2025-02-26 13:59:01,462 INFO: Starting Flask application...
+2025-02-26 13:59:01,494 WARNING:  * Debugger is active!
+2025-02-26 13:59:01,502 INFO:  * Debugger PIN: 148-564-864
+2025-02-26 14:00:45,979 INFO: Home page accessed
+2025-02-26 14:00:45,988 INFO: 127.0.0.1 - - [26/Feb/2025 14:00:45] "GET / HTTP/1.1" 200 -
+2025-02-26 14:05:43,448 INFO: Model loaded successfully.
+2025-02-26 14:06:13,072 INFO: Model loaded successfully.
+2025-02-26 14:06:32,105 INFO: Model loaded successfully.
+2025-02-26 14:06:32,109 INFO: Starting Flask application...
+2025-02-26 14:06:32,158 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-26 14:06:32,159 INFO: [33mPress CTRL+C to quit[0m
+2025-02-26 14:06:32,161 INFO:  * Restarting with stat
+2025-02-26 14:06:33,807 INFO: Model loaded successfully.
+2025-02-26 14:06:33,811 INFO: Starting Flask application...
+2025-02-26 14:06:33,844 WARNING:  * Debugger is active!
+2025-02-26 14:06:33,852 INFO:  * Debugger PIN: 148-564-864
+2025-02-26 14:06:38,528 INFO: Home page accessed
+2025-02-26 14:06:38,536 INFO: 127.0.0.1 - - [26/Feb/2025 14:06:38] "GET / HTTP/1.1" 200 -
+2025-02-26 14:12:18,493 INFO: Model loaded successfully.
+2025-02-26 14:12:18,498 INFO: Starting Flask application...
+2025-02-26 14:12:18,567 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-26 14:12:18,567 INFO: [33mPress CTRL+C to quit[0m
+2025-02-26 14:12:18,570 INFO:  * Restarting with stat
+2025-02-26 14:12:20,178 INFO: Model loaded successfully.
+2025-02-26 14:12:20,183 INFO: Starting Flask application...
+2025-02-26 14:12:20,216 WARNING:  * Debugger is active!
+2025-02-26 14:12:20,222 INFO:  * Debugger PIN: 148-564-864
+2025-02-26 14:12:23,454 INFO: Home page accessed
+2025-02-26 14:12:23,657 INFO: 127.0.0.1 - - [26/Feb/2025 14:12:23] "GET / HTTP/1.1" 200 -
+2025-02-26 14:12:32,442 INFO: Home page accessed
+2025-02-26 14:12:32,446 INFO: 127.0.0.1 - - [26/Feb/2025 14:12:32] "GET /?Glucose=120&BMI=32.1&Age=30&DiabetesPedigreeFunction=0.98&BloodPressure=61 HTTP/1.1" 200 -
+2025-02-26 14:12:39,105 INFO: Home page accessed
+2025-02-26 14:12:39,109 INFO: 127.0.0.1 - - [26/Feb/2025 14:12:39] "GET /?Glucose=120&BMI=25&Age=30&DiabetesPedigreeFunction=0.5&BloodPressure=80 HTTP/1.1" 200 -
+2025-02-26 14:13:19,261 INFO: Home page accessed
+2025-02-26 14:13:19,263 INFO: 127.0.0.1 - - [26/Feb/2025 14:13:19] "GET /?Glucose=120&BMI=25&Age=30&DiabetesPedigreeFunction=0.5&BloodPressure=80 HTTP/1.1" 200 -
+2025-02-26 20:28:48,450 INFO: Home page accessed
+2025-02-26 20:28:48,452 INFO: 127.0.0.1 - - [26/Feb/2025 20:28:48] "GET / HTTP/1.1" 200 -
+2025-02-26 20:28:52,300 INFO: Home page accessed
+2025-02-26 20:28:52,302 INFO: 127.0.0.1 - - [26/Feb/2025 20:28:52] "GET /?Glucose=120&BMI=25&Age=30&DiabetesPedigreeFunction=0.4&BloodPressure=80 HTTP/1.1" 200 -
+2025-02-26 20:51:54,078 INFO: Home page accessed
+2025-02-26 20:51:54,078 INFO: 127.0.0.1 - - [26/Feb/2025 20:51:54] "GET / HTTP/1.1" 200 -
+2025-02-26 20:58:35,742 INFO: Model loaded successfully.
+2025-02-26 20:58:55,324 INFO: Model loaded successfully.
+2025-02-26 20:58:55,324 INFO: Starting Flask application...
+2025-02-26 20:58:55,392 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-26 20:58:55,392 INFO: [33mPress CTRL+C to quit[0m
+2025-02-26 20:58:55,408 INFO:  * Restarting with stat
+2025-02-26 20:58:56,992 INFO: Model loaded successfully.
+2025-02-26 20:58:57,009 INFO: Starting Flask application...
+2025-02-26 20:58:57,025 WARNING:  * Debugger is active!
+2025-02-26 20:58:57,042 INFO:  * Debugger PIN: 148-564-864
+2025-02-26 20:58:59,980 INFO: Home page accessed
+2025-02-26 20:58:59,987 INFO: 127.0.0.1 - - [26/Feb/2025 20:58:59] "GET / HTTP/1.1" 200 -
+2025-02-26 20:59:11,307 INFO: Home page accessed
+2025-02-26 20:59:11,308 INFO: 127.0.0.1 - - [26/Feb/2025 20:59:11] "GET /?Glucose=102&BMI=28.5&Age=50&DiabetesPedigreeFunction=1.11&BloodPressure=65 HTTP/1.1" 200 -
+2025-02-26 20:59:26,036 INFO: Home page accessed
+2025-02-26 20:59:26,036 INFO: 127.0.0.1 - - [26/Feb/2025 20:59:26] "GET /?Glucose=120&BMI=18.5&Age=51&DiabetesPedigreeFunction=1.08&BloodPressure=61 HTTP/1.1" 200 -
+2025-02-26 21:00:00,405 INFO: Home page accessed
+2025-02-26 21:00:00,406 INFO: 127.0.0.1 - - [26/Feb/2025 21:00:00] "GET /?Glucose=120&BMI=25&Age=30&DiabetesPedigreeFunction=0.5&BloodPressure=80 HTTP/1.1" 200 -
+2025-02-26 21:04:23,508 INFO: Model loaded successfully.
+2025-02-26 21:04:23,508 INFO: Starting Flask application...
+2025-02-26 21:04:23,594 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-26 21:04:23,594 INFO: [33mPress CTRL+C to quit[0m
+2025-02-26 21:04:23,594 INFO:  * Restarting with stat
+2025-02-26 21:04:25,542 INFO: Model loaded successfully.
+2025-02-26 21:04:25,558 INFO: Starting Flask application...
+2025-02-26 21:04:25,592 WARNING:  * Debugger is active!
+2025-02-26 21:04:25,592 INFO:  * Debugger PIN: 148-564-864
+2025-02-26 21:04:29,225 INFO: Home page accessed
+2025-02-26 21:04:30,015 INFO: 127.0.0.1 - - [26/Feb/2025 21:04:30] "GET / HTTP/1.1" 200 -
+2025-02-26 21:04:34,628 INFO: Prediction request received
+2025-02-26 21:04:34,629 DEBUG: Inputs received: [120.0, 25.0, 30.0, 0.9, 55.0]
+2025-02-26 21:04:34,645 ERROR: Error occurred: Feature shape mismatch, expected: 8, got 5
+2025-02-26 21:04:34,645 INFO: 127.0.0.1 - - [26/Feb/2025 21:04:34] "POST /predict HTTP/1.1" 200 -
+2025-02-26 21:08:39,442 INFO: Model loaded successfully.
+2025-02-26 21:08:39,458 INFO: Starting Flask application...
+2025-02-26 21:08:39,508 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-26 21:08:39,508 INFO: [33mPress CTRL+C to quit[0m
+2025-02-26 21:08:39,508 INFO:  * Restarting with stat
+2025-02-26 21:08:41,342 INFO: Model loaded successfully.
+2025-02-26 21:08:41,359 INFO: Starting Flask application...
+2025-02-26 21:08:41,374 WARNING:  * Debugger is active!
+2025-02-26 21:08:41,392 INFO:  * Debugger PIN: 148-564-864
+2025-02-26 21:08:53,040 INFO: Model loaded successfully.
+2025-02-26 21:08:53,042 INFO: Starting Flask application...
+2025-02-26 21:08:53,092 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-26 21:08:53,092 INFO: [33mPress CTRL+C to quit[0m
+2025-02-26 21:08:53,092 INFO:  * Restarting with stat
+2025-02-26 21:08:54,490 INFO: Model loaded successfully.
+2025-02-26 21:08:54,492 INFO: Starting Flask application...
+2025-02-26 21:08:54,524 WARNING:  * Debugger is active!
+2025-02-26 21:08:54,524 INFO:  * Debugger PIN: 148-564-864
+2025-02-26 21:09:14,572 INFO: Home page accessed
+2025-02-26 21:09:14,582 INFO: 127.0.0.1 - - [26/Feb/2025 21:09:14] "GET / HTTP/1.1" 200 -
+2025-02-26 21:09:15,498 INFO:  * Detected change in 'C:\\Users\\hp\\Desktop\\diabetes_folder_prediction\\diabetes.py', reloading
+2025-02-26 21:09:15,639 INFO:  * Restarting with stat
+2025-02-26 21:09:17,109 INFO: Model loaded successfully.
+2025-02-26 21:09:17,109 INFO: Starting Flask application...
+2025-02-26 21:09:17,143 WARNING:  * Debugger is active!
+2025-02-26 21:09:17,143 INFO:  * Debugger PIN: 148-564-864
+2025-02-26 21:09:17,242 INFO: Prediction request received
+2025-02-26 21:09:17,242 DEBUG: Inputs received: [120.0, 25.0, 30.0, 0.5, 80.0]
+2025-02-26 21:09:17,242 ERROR: Error occurred: Feature shape mismatch, expected: 8, got 5
+2025-02-26 21:09:17,242 INFO: 127.0.0.1 - - [26/Feb/2025 21:09:17] "POST /predict HTTP/1.1" 200 -
+2025-02-26 21:25:20,742 ERROR: Error loading model: [Errno 2] No such file or directory: 'C:\\Users\\hp\\Desktop\\diabetes_folder_prediction\\diabetes_model.pkl'
+2025-02-26 21:25:20,742 INFO: Starting Flask application...
+2025-02-26 21:25:20,792 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-26 21:25:20,792 INFO: [33mPress CTRL+C to quit[0m
+2025-02-26 21:25:20,792 INFO:  * Restarting with stat
+2025-02-26 21:25:21,842 ERROR: Error loading model: [Errno 2] No such file or directory: 'C:\\Users\\hp\\Desktop\\diabetes_folder_prediction\\diabetes_model.pkl'
+2025-02-26 21:25:21,842 INFO: Starting Flask application...
+2025-02-26 21:25:21,858 WARNING:  * Debugger is active!
+2025-02-26 21:25:21,875 INFO:  * Debugger PIN: 148-564-864
+2025-02-26 21:25:23,986 INFO: Home page accessed
+2025-02-26 21:25:23,993 INFO: 127.0.0.1 - - [26/Feb/2025 21:25:23] "GET / HTTP/1.1" 200 -
+2025-02-26 21:25:32,134 INFO: Prediction request received
+2025-02-26 21:25:32,134 DEBUG: Inputs received: [120.0, 14.0, 42.0, 1.1, 58.0]
+2025-02-26 21:25:32,134 INFO: 127.0.0.1 - - [26/Feb/2025 21:25:32] "POST /predict HTTP/1.1" 200 -
+2025-02-26 21:26:34,842 ERROR: Error loading model: No module named 'sklearn'
+2025-02-26 21:26:34,842 INFO: Starting Flask application...
+2025-02-26 21:26:34,890 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-26 21:26:34,890 INFO: [33mPress CTRL+C to quit[0m
+2025-02-26 21:26:34,890 INFO:  * Restarting with stat
+2025-02-26 21:26:35,842 ERROR: Error loading model: No module named 'sklearn'
+2025-02-26 21:26:35,858 INFO: Starting Flask application...
+2025-02-26 21:26:35,874 WARNING:  * Debugger is active!
+2025-02-26 21:26:35,874 INFO:  * Debugger PIN: 148-564-864
+2025-02-26 21:26:37,225 INFO: Home page accessed
+2025-02-26 21:26:37,238 INFO: 127.0.0.1 - - [26/Feb/2025 21:26:37] "GET / HTTP/1.1" 200 -
+2025-02-26 21:26:46,119 INFO: Prediction request received
+2025-02-26 21:26:46,120 DEBUG: Inputs received: [95.0, 29.4, 53.0, 0.94, 66.0]
+2025-02-26 21:26:46,120 INFO: 127.0.0.1 - - [26/Feb/2025 21:26:46] "POST /predict HTTP/1.1" 200 -
+2025-02-26 21:29:57,124 ERROR: Error loading model: name 'diabetes_model2_path' is not defined
+2025-02-26 21:29:57,124 INFO: Starting Flask application...
+2025-02-26 21:29:57,158 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-26 21:29:57,174 INFO: [33mPress CTRL+C to quit[0m
+2025-02-26 21:29:57,174 INFO:  * Restarting with stat
+2025-02-26 21:29:58,174 ERROR: Error loading model: name 'diabetes_model2_path' is not defined
+2025-02-26 21:29:58,174 INFO: Starting Flask application...
+2025-02-26 21:29:58,192 WARNING:  * Debugger is active!
+2025-02-26 21:29:58,208 INFO:  * Debugger PIN: 148-564-864
+2025-02-26 21:30:00,606 INFO: Home page accessed
+2025-02-26 21:30:00,613 INFO: 127.0.0.1 - - [26/Feb/2025 21:30:00] "GET / HTTP/1.1" 200 -
+2025-02-26 21:30:12,305 INFO: Prediction request received
+2025-02-26 21:30:12,306 DEBUG: Inputs received: [95.0, 18.2, 45.0, 1.07, 55.0]
+2025-02-26 21:30:12,306 INFO: 127.0.0.1 - - [26/Feb/2025 21:30:12] "POST /predict HTTP/1.1" 200 -
+2025-02-26 21:35:14,708 INFO:  * Detected change in 'C:\\Users\\hp\\Desktop\\diabetes_folder_prediction\\diabetes.py', reloading
+2025-02-26 21:35:14,809 INFO:  * Restarting with stat
+2025-02-26 21:35:15,974 ERROR: Error loading model: name 'diabetes_model2_path' is not defined
+2025-02-26 21:35:15,974 INFO: Starting Flask application...
+2025-02-26 21:35:15,992 WARNING:  * Debugger is active!
+2025-02-26 21:35:15,992 INFO:  * Debugger PIN: 148-564-864
+2025-02-26 21:44:07,490 ERROR: Error loading model: No module named 'sklearn'
+2025-02-26 21:44:07,492 INFO: Starting Flask application...
+2025-02-26 21:44:07,524 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-26 21:44:07,524 INFO: [33mPress CTRL+C to quit[0m
+2025-02-26 21:44:07,524 INFO:  * Restarting with stat
+2025-02-26 21:44:08,608 ERROR: Error loading model: No module named 'sklearn'
+2025-02-26 21:44:08,608 INFO: Starting Flask application...
+2025-02-26 21:44:08,624 WARNING:  * Debugger is active!
+2025-02-26 21:44:08,642 INFO:  * Debugger PIN: 148-564-864
+2025-02-26 21:44:10,612 INFO: Home page accessed
+2025-02-26 21:44:10,612 INFO: 127.0.0.1 - - [26/Feb/2025 21:44:10] "GET / HTTP/1.1" 200 -
+2025-02-26 21:44:20,563 INFO: Prediction request received
+2025-02-26 21:44:20,564 DEBUG: Inputs received: [101.0, 17.2, 40.0, 0.93, 64.0]
+2025-02-26 21:44:20,564 INFO: 127.0.0.1 - - [26/Feb/2025 21:44:20] "POST /predict HTTP/1.1" 200 -
+2025-02-26 22:02:57,273 ERROR: Error loading model: No module named 'sklearn'
+2025-02-26 22:02:57,278 INFO: Starting Flask application...
+2025-02-26 22:02:57,368 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-26 22:02:57,368 INFO: [33mPress CTRL+C to quit[0m
+2025-02-26 22:02:57,373 INFO:  * Restarting with stat
+2025-02-26 22:03:00,717 ERROR: Error loading model: No module named 'sklearn'
+2025-02-26 22:03:00,717 INFO: Starting Flask application...
+2025-02-26 22:03:00,747 WARNING:  * Debugger is active!
+2025-02-26 22:03:00,757 INFO:  * Debugger PIN: 148-564-864
+2025-02-26 22:03:03,965 INFO: Home page accessed
+2025-02-26 22:03:03,985 INFO: 127.0.0.1 - - [26/Feb/2025 22:03:03] "GET / HTTP/1.1" 200 -
+2025-02-26 22:03:17,496 INFO: Prediction request received
+2025-02-26 22:03:17,496 DEBUG: Inputs received: [81.0, 18.9, 39.0, 0.8, 61.0]
+2025-02-26 22:03:17,497 INFO: 127.0.0.1 - - [26/Feb/2025 22:03:17] "POST /predict HTTP/1.1" 200 -
+2025-02-26 22:08:34,978 ERROR: \u274c Error loading model: No module named 'sklearn'
+2025-02-26 22:08:56,346 ERROR: \u274c Error loading model: No module named 'sklearn'
+2025-02-26 22:09:18,564 ERROR: \u274c Error loading model: No module named 'sklearn'
+2025-02-26 22:09:18,564 INFO: \U0001f680 Starting Flask application...
+2025-02-26 22:09:18,617 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-26 22:09:18,617 INFO: [33mPress CTRL+C to quit[0m
+2025-02-26 22:09:18,617 INFO:  * Restarting with stat
+2025-02-26 22:09:19,712 ERROR: \u274c Error loading model: No module named 'sklearn'
+2025-02-26 22:09:19,717 INFO: \U0001f680 Starting Flask application...
+2025-02-26 22:09:19,738 WARNING:  * Debugger is active!
+2025-02-26 22:09:19,742 INFO:  * Debugger PIN: 148-564-864
+2025-02-26 22:16:46,652 ERROR: \u274c Error loading model: No module named 'sklearn'
+2025-02-26 22:16:46,652 INFO: \U0001f680 Starting Flask application...
+2025-02-26 22:16:46,687 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-26 22:16:46,692 INFO: [33mPress CTRL+C to quit[0m
+2025-02-26 22:16:46,692 INFO:  * Restarting with stat
+2025-02-26 22:16:47,706 ERROR: \u274c Error loading model: No module named 'sklearn'
+2025-02-26 22:16:47,706 INFO: \U0001f680 Starting Flask application...
+2025-02-26 22:16:47,727 WARNING:  * Debugger is active!
+2025-02-26 22:16:47,732 INFO:  * Debugger PIN: 148-564-864
+2025-02-26 22:16:57,700 INFO: \U0001f3e0 Home page accessed
+2025-02-26 22:16:57,709 INFO: 127.0.0.1 - - [26/Feb/2025 22:16:57] "GET / HTTP/1.1" 200 -
+2025-02-26 22:17:00,037 INFO: \U0001f4e9 Prediction request received
+2025-02-26 22:17:00,037 DEBUG: \U0001f50d Inputs received: {'Glucose': 120.0, 'BMI': 25.0, 'Age': 30.0, 'DiabetesPedigreeFunction': 0.5, 'BloodPressure': 80.0}
+2025-02-26 22:17:00,038 ERROR: \u274c Model is not loaded! Cannot proceed with prediction.
+2025-02-26 22:17:00,038 INFO: 127.0.0.1 - - [26/Feb/2025 22:17:00] "POST /predict HTTP/1.1" 200 -
+2025-02-26 22:20:20,603 ERROR: \u274c Error loading model: No module named 'sklearn'
+2025-02-26 22:20:20,605 INFO: \U0001f680 Starting Flask application...
+2025-02-26 22:20:20,655 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-26 22:20:20,655 INFO: [33mPress CTRL+C to quit[0m
+2025-02-26 22:20:20,658 INFO:  * Restarting with stat
+2025-02-26 22:20:21,882 ERROR: \u274c Error loading model: No module named 'sklearn'
+2025-02-26 22:20:21,887 INFO: \U0001f680 Starting Flask application...
+2025-02-26 22:20:21,903 WARNING:  * Debugger is active!
+2025-02-26 22:20:21,914 INFO:  * Debugger PIN: 148-564-864
+2025-02-27 11:04:45,698 INFO: \U0001f3e0 Home page accessed
+2025-02-27 11:04:45,737 INFO: 127.0.0.1 - - [27/Feb/2025 11:04:45] "GET / HTTP/1.1" 200 -
+2025-02-27 11:04:52,868 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:04:52,876 DEBUG: \U0001f50d Inputs received: {'Glucose': 120.0, 'BMI': 25.0, 'Age': 30.0, 'DiabetesPedigreeFunction': 0.88, 'BloodPressure': 58.0}
+2025-02-27 11:04:52,884 ERROR: \u274c Model is not loaded! Cannot proceed with prediction.
+2025-02-27 11:04:52,884 INFO: 127.0.0.1 - - [27/Feb/2025 11:04:52] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:07:04,962 INFO: \U0001f3e0 Home page accessed
+2025-02-27 11:07:04,963 INFO: 127.0.0.1 - - [27/Feb/2025 11:07:04] "GET / HTTP/1.1" 200 -
+2025-02-27 11:07:15,792 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:07:15,792 DEBUG: \U0001f50d Inputs received: {'Glucose': 74.0, 'BMI': 22.2, 'Age': 64.0, 'DiabetesPedigreeFunction': 1.61, 'BloodPressure': 61.0}
+2025-02-27 11:07:15,792 ERROR: \u274c Model is not loaded! Cannot proceed with prediction.
+2025-02-27 11:07:15,793 INFO: 127.0.0.1 - - [27/Feb/2025 11:07:15] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:21:42,398 INFO: \u2705 Model loaded successfully from diabetes_model2.pkl.
+2025-02-27 11:21:42,402 INFO: \U0001f680 Starting Flask application...
+2025-02-27 11:21:42,455 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-27 11:21:42,455 INFO: [33mPress CTRL+C to quit[0m
+2025-02-27 11:21:42,458 INFO:  * Restarting with stat
+2025-02-27 11:21:45,608 INFO: \u2705 Model loaded successfully from diabetes_model2.pkl.
+2025-02-27 11:21:45,609 INFO: \U0001f680 Starting Flask application...
+2025-02-27 11:21:45,624 WARNING:  * Debugger is active!
+2025-02-27 11:21:45,629 INFO:  * Debugger PIN: 148-564-864
+2025-02-27 11:21:47,088 INFO: \U0001f3e0 Home page accessed
+2025-02-27 11:21:47,097 INFO: 127.0.0.1 - - [27/Feb/2025 11:21:47] "GET / HTTP/1.1" 200 -
+2025-02-27 11:21:57,441 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:21:57,441 DEBUG: \U0001f50d Inputs received: {'Glucose': 99.0, 'BMI': 30.0, 'Age': 50.0, 'DiabetesPedigreeFunction': 0.97, 'BloodPressure': 52.0}
+2025-02-27 11:21:57,473 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-27 11:21:57,492 ERROR: \u274c Error occurred: No module named 'openpyxl'
+2025-02-27 11:21:57,493 INFO: 127.0.0.1 - - [27/Feb/2025 11:21:57] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:25:15,229 INFO: \u2705 Model loaded successfully from diabetes_model2.pkl.
+2025-02-27 11:25:15,231 INFO: \U0001f680 Starting Flask application...
+2025-02-27 11:25:15,261 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-27 11:25:15,262 INFO: [33mPress CTRL+C to quit[0m
+2025-02-27 11:25:15,264 INFO:  * Restarting with stat
+2025-02-27 11:25:17,743 INFO: \u2705 Model loaded successfully from diabetes_model2.pkl.
+2025-02-27 11:25:17,743 INFO: \U0001f680 Starting Flask application...
+2025-02-27 11:25:17,759 WARNING:  * Debugger is active!
+2025-02-27 11:25:17,759 INFO:  * Debugger PIN: 148-564-864
+2025-02-27 11:25:24,753 INFO: \U0001f3e0 Home page accessed
+2025-02-27 11:25:24,762 INFO: 127.0.0.1 - - [27/Feb/2025 11:25:24] "GET / HTTP/1.1" 200 -
+2025-02-27 11:25:26,198 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:25:26,198 DEBUG: \U0001f50d Inputs received: {'Glucose': 120.0, 'BMI': 25.0, 'Age': 30.0, 'DiabetesPedigreeFunction': 0.5, 'BloodPressure': 80.0}
+2025-02-27 11:25:26,210 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-27 11:25:26,218 ERROR: \u274c Error occurred: No module named 'openpyxl'
+2025-02-27 11:25:26,218 INFO: 127.0.0.1 - - [27/Feb/2025 11:25:26] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:29:16,812 INFO: \u2705 Model loaded successfully from diabetes_model2.pkl.
+2025-02-27 11:29:16,813 INFO: \U0001f680 Starting Flask application...
+2025-02-27 11:29:16,848 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-27 11:29:16,848 INFO: [33mPress CTRL+C to quit[0m
+2025-02-27 11:29:16,851 INFO:  * Restarting with stat
+2025-02-27 11:29:20,991 INFO: \u2705 Model loaded successfully from diabetes_model2.pkl.
+2025-02-27 11:29:20,998 INFO: \U0001f680 Starting Flask application...
+2025-02-27 11:29:21,016 WARNING:  * Debugger is active!
+2025-02-27 11:29:21,021 INFO:  * Debugger PIN: 148-564-864
+2025-02-27 11:29:21,577 INFO: \U0001f3e0 Home page accessed
+2025-02-27 11:29:21,586 INFO: 127.0.0.1 - - [27/Feb/2025 11:29:21] "GET / HTTP/1.1" 200 -
+2025-02-27 11:29:23,830 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:29:23,831 DEBUG: \U0001f50d Inputs received: {'Glucose': 120.0, 'BMI': 25.0, 'Age': 30.0, 'DiabetesPedigreeFunction': 0.5, 'BloodPressure': 80.0}
+2025-02-27 11:29:23,845 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-27 11:29:23,887 INFO: \U0001f4c4 New Excel file created and data saved.
+2025-02-27 11:29:23,887 INFO: 127.0.0.1 - - [27/Feb/2025 11:29:23] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:29:41,515 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:29:41,515 DEBUG: \U0001f50d Inputs received: {'Glucose': 86.0, 'BMI': 18.5, 'Age': 53.0, 'DiabetesPedigreeFunction': 1.04, 'BloodPressure': 68.0}
+2025-02-27 11:29:41,535 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-27 11:29:41,663 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:29:41,663 INFO: 127.0.0.1 - - [27/Feb/2025 11:29:41] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:29:45,019 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:29:45,020 DEBUG: \U0001f50d Inputs received: {'Glucose': 86.0, 'BMI': 18.5, 'Age': 53.0, 'DiabetesPedigreeFunction': 1.04, 'BloodPressure': 68.0}
+2025-02-27 11:29:45,055 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-27 11:29:45,153 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:29:45,153 INFO: 127.0.0.1 - - [27/Feb/2025 11:29:45] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:29:48,432 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:29:48,433 DEBUG: \U0001f50d Inputs received: {'Glucose': 86.0, 'BMI': 18.5, 'Age': 53.0, 'DiabetesPedigreeFunction': 1.04, 'BloodPressure': 68.0}
+2025-02-27 11:29:48,457 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-27 11:29:48,533 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:29:48,533 INFO: 127.0.0.1 - - [27/Feb/2025 11:29:48] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:29:56,311 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:29:56,311 DEBUG: \U0001f50d Inputs received: {'Glucose': 86.0, 'BMI': 18.5, 'Age': 53.0, 'DiabetesPedigreeFunction': 0.66, 'BloodPressure': 56.0}
+2025-02-27 11:29:56,343 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-27 11:29:56,416 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:29:56,421 INFO: 127.0.0.1 - - [27/Feb/2025 11:29:56] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:29:57,343 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:29:57,344 DEBUG: \U0001f50d Inputs received: {'Glucose': 86.0, 'BMI': 18.5, 'Age': 53.0, 'DiabetesPedigreeFunction': 0.66, 'BloodPressure': 56.0}
+2025-02-27 11:29:57,366 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-27 11:29:57,467 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:29:57,467 INFO: 127.0.0.1 - - [27/Feb/2025 11:29:57] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:30:06,219 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:30:06,219 DEBUG: \U0001f50d Inputs received: {'Glucose': 162.0, 'BMI': 37.1, 'Age': 73.0, 'DiabetesPedigreeFunction': 0.66, 'BloodPressure': 69.0}
+2025-02-27 11:30:06,240 INFO: \u2705 Prediction result: Diabetic
+2025-02-27 11:30:06,350 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:30:06,350 INFO: 127.0.0.1 - - [27/Feb/2025 11:30:06] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:30:11,476 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:30:11,476 DEBUG: \U0001f50d Inputs received: {'Glucose': 162.0, 'BMI': 37.1, 'Age': 73.0, 'DiabetesPedigreeFunction': 0.66, 'BloodPressure': 40.0}
+2025-02-27 11:30:11,493 INFO: \u2705 Prediction result: Diabetic
+2025-02-27 11:30:11,578 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:30:11,579 INFO: 127.0.0.1 - - [27/Feb/2025 11:30:11] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:30:12,754 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:30:12,754 DEBUG: \U0001f50d Inputs received: {'Glucose': 162.0, 'BMI': 37.1, 'Age': 73.0, 'DiabetesPedigreeFunction': 0.66, 'BloodPressure': 40.0}
+2025-02-27 11:30:12,769 INFO: \u2705 Prediction result: Diabetic
+2025-02-27 11:30:12,854 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:30:12,854 INFO: 127.0.0.1 - - [27/Feb/2025 11:30:12] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:30:19,274 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:30:19,275 DEBUG: \U0001f50d Inputs received: {'Glucose': 162.0, 'BMI': 37.1, 'Age': 73.0, 'DiabetesPedigreeFunction': 1.27, 'BloodPressure': 80.0}
+2025-02-27 11:30:19,305 INFO: \u2705 Prediction result: Diabetic
+2025-02-27 11:30:19,384 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:30:19,384 INFO: 127.0.0.1 - - [27/Feb/2025 11:30:19] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:30:24,843 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:30:24,843 DEBUG: \U0001f50d Inputs received: {'Glucose': 162.0, 'BMI': 18.8, 'Age': 37.0, 'DiabetesPedigreeFunction': 1.27, 'BloodPressure': 80.0}
+2025-02-27 11:30:24,884 INFO: \u2705 Prediction result: Diabetic
+2025-02-27 11:30:24,957 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:30:24,963 INFO: 127.0.0.1 - - [27/Feb/2025 11:30:24] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:30:28,976 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:30:28,976 DEBUG: \U0001f50d Inputs received: {'Glucose': 117.0, 'BMI': 18.8, 'Age': 37.0, 'DiabetesPedigreeFunction': 1.27, 'BloodPressure': 80.0}
+2025-02-27 11:30:29,017 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-27 11:30:29,143 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:30:29,143 INFO: 127.0.0.1 - - [27/Feb/2025 11:30:29] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:32:07,491 INFO: \u2705 Model loaded successfully from diabetes_model2.pkl.
+2025-02-27 11:32:07,491 INFO: \U0001f680 Starting Flask application...
+2025-02-27 11:32:07,524 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-27 11:32:07,524 INFO: [33mPress CTRL+C to quit[0m
+2025-02-27 11:32:07,526 INFO:  * Restarting with stat
+2025-02-27 11:32:10,609 INFO: \u2705 Model loaded successfully from diabetes_model2.pkl.
+2025-02-27 11:32:10,609 INFO: \U0001f680 Starting Flask application...
+2025-02-27 11:32:10,627 WARNING:  * Debugger is active!
+2025-02-27 11:32:10,629 INFO:  * Debugger PIN: 148-564-864
+2025-02-27 11:32:12,135 INFO: \U0001f3e0 Home page accessed
+2025-02-27 11:32:12,145 INFO: 127.0.0.1 - - [27/Feb/2025 11:32:12] "GET / HTTP/1.1" 200 -
+2025-02-27 11:32:14,382 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:32:14,382 DEBUG: \U0001f50d Inputs received: {'Glucose': 120.0, 'BMI': 25.0, 'Age': 30.0, 'DiabetesPedigreeFunction': 0.5, 'BloodPressure': 80.0}
+2025-02-27 11:32:14,396 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-27 11:32:14,443 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:32:14,443 INFO: 127.0.0.1 - - [27/Feb/2025 11:32:14] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:40:30,222 INFO: \U0001f3e0 Home page accessed
+2025-02-27 11:40:30,224 INFO: 127.0.0.1 - - [27/Feb/2025 11:40:30] "GET / HTTP/1.1" 200 -
+2025-02-27 11:40:33,316 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:40:33,316 DEBUG: \U0001f50d Inputs received: {'Glucose': 120.0, 'BMI': 25.0, 'Age': 30.0, 'DiabetesPedigreeFunction': 0.5, 'BloodPressure': 66.0}
+2025-02-27 11:40:33,328 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-27 11:40:33,343 ERROR: \u274c Error occurred: [Errno 13] Permission denied: 'C:\\Users\\hp\\Desktop\\diabetes_folder_prediction\\diabetes_predictions.xlsx'
+2025-02-27 11:40:33,343 INFO: 127.0.0.1 - - [27/Feb/2025 11:40:33] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:41:01,450 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:41:01,451 DEBUG: \U0001f50d Inputs received: {'Glucose': 120.0, 'BMI': 25.0, 'Age': 30.0, 'DiabetesPedigreeFunction': 0.5, 'BloodPressure': 61.0}
+2025-02-27 11:41:01,463 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-27 11:41:01,532 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:41:01,532 INFO: 127.0.0.1 - - [27/Feb/2025 11:41:01] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:48:28,171 INFO: \u2705 Model loaded successfully from diabetes_model2.pkl.
+2025-02-27 11:48:28,171 INFO: \U0001f680 Starting Flask application...
+2025-02-27 11:48:28,207 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-27 11:48:28,207 INFO: [33mPress CTRL+C to quit[0m
+2025-02-27 11:48:28,209 INFO:  * Restarting with stat
+2025-02-27 11:48:31,213 INFO: \u2705 Model loaded successfully from diabetes_model2.pkl.
+2025-02-27 11:48:31,213 INFO: \U0001f680 Starting Flask application...
+2025-02-27 11:48:31,232 WARNING:  * Debugger is active!
+2025-02-27 11:48:31,233 INFO:  * Debugger PIN: 148-564-864
+2025-02-27 11:48:39,650 INFO: \U0001f3e0 Home page accessed
+2025-02-27 11:48:39,661 INFO: 127.0.0.1 - - [27/Feb/2025 11:48:39] "GET / HTTP/1.1" 200 -
+2025-02-27 11:48:43,444 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:48:43,444 DEBUG: \U0001f50d Inputs received: {'Glucose': 120.0, 'BMI': 25.0, 'Age': 30.0, 'DiabetesPedigreeFunction': 0.5, 'BloodPressure': 80.0}
+2025-02-27 11:48:43,453 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-27 11:48:43,511 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:48:43,511 INFO: 127.0.0.1 - - [27/Feb/2025 11:48:43] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:48:58,490 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:48:58,490 DEBUG: \U0001f50d Inputs received: {'Glucose': 120.0, 'BMI': 39.6, 'Age': 30.0, 'DiabetesPedigreeFunction': 0.5, 'BloodPressure': 91.0}
+2025-02-27 11:48:58,504 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-27 11:48:58,579 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:48:58,579 INFO: 127.0.0.1 - - [27/Feb/2025 11:48:58] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:49:01,459 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:49:01,459 DEBUG: \U0001f50d Inputs received: {'Glucose': 120.0, 'BMI': 39.6, 'Age': 30.0, 'DiabetesPedigreeFunction': 0.5, 'BloodPressure': 91.0}
+2025-02-27 11:49:01,472 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-27 11:49:01,556 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:49:01,558 INFO: 127.0.0.1 - - [27/Feb/2025 11:49:01] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:49:05,355 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:49:05,355 DEBUG: \U0001f50d Inputs received: {'Glucose': 120.0, 'BMI': 39.6, 'Age': 30.0, 'DiabetesPedigreeFunction': 0.5, 'BloodPressure': 91.0}
+2025-02-27 11:49:05,369 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-27 11:49:05,454 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:49:05,454 INFO: 127.0.0.1 - - [27/Feb/2025 11:49:05] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:49:10,163 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:49:10,163 DEBUG: \U0001f50d Inputs received: {'Glucose': 120.0, 'BMI': 39.6, 'Age': 63.0, 'DiabetesPedigreeFunction': 0.5, 'BloodPressure': 91.0}
+2025-02-27 11:49:10,176 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-27 11:49:10,260 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:49:10,261 INFO: 127.0.0.1 - - [27/Feb/2025 11:49:10] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:49:14,170 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:49:14,170 DEBUG: \U0001f50d Inputs received: {'Glucose': 120.0, 'BMI': 39.6, 'Age': 63.0, 'DiabetesPedigreeFunction': 1.76, 'BloodPressure': 91.0}
+2025-02-27 11:49:14,184 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-27 11:49:14,265 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:49:14,265 INFO: 127.0.0.1 - - [27/Feb/2025 11:49:14] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:49:18,667 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:49:18,668 DEBUG: \U0001f50d Inputs received: {'Glucose': 120.0, 'BMI': 39.6, 'Age': 63.0, 'DiabetesPedigreeFunction': 0.43, 'BloodPressure': 91.0}
+2025-02-27 11:49:18,684 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-27 11:49:18,770 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:49:18,770 INFO: 127.0.0.1 - - [27/Feb/2025 11:49:18] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:49:22,475 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:49:22,475 DEBUG: \U0001f50d Inputs received: {'Glucose': 190.0, 'BMI': 39.6, 'Age': 63.0, 'DiabetesPedigreeFunction': 0.43, 'BloodPressure': 91.0}
+2025-02-27 11:49:22,491 INFO: \u2705 Prediction result: Diabetic
+2025-02-27 11:49:22,614 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:49:22,614 INFO: 127.0.0.1 - - [27/Feb/2025 11:49:22] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:50:17,995 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:50:17,996 DEBUG: \U0001f50d Inputs received: {'Glucose': 190.0, 'BMI': 39.6, 'Age': 63.0, 'DiabetesPedigreeFunction': 0.43, 'BloodPressure': 91.0}
+2025-02-27 11:50:18,011 INFO: \u2705 Prediction result: Diabetic
+2025-02-27 11:50:18,101 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:50:18,101 INFO: 127.0.0.1 - - [27/Feb/2025 11:50:18] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:50:23,547 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:50:23,547 DEBUG: \U0001f50d Inputs received: {'Glucose': 190.0, 'BMI': 23.1, 'Age': 63.0, 'DiabetesPedigreeFunction': 0.43, 'BloodPressure': 91.0}
+2025-02-27 11:50:23,564 INFO: \u2705 Prediction result: Diabetic
+2025-02-27 11:50:23,663 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:50:23,663 INFO: 127.0.0.1 - - [27/Feb/2025 11:50:23] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:50:24,282 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:50:24,282 DEBUG: \U0001f50d Inputs received: {'Glucose': 190.0, 'BMI': 23.1, 'Age': 63.0, 'DiabetesPedigreeFunction': 0.43, 'BloodPressure': 91.0}
+2025-02-27 11:50:24,297 INFO: \u2705 Prediction result: Diabetic
+2025-02-27 11:50:24,382 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:50:24,382 INFO: 127.0.0.1 - - [27/Feb/2025 11:50:24] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:50:27,122 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:50:27,123 DEBUG: \U0001f50d Inputs received: {'Glucose': 190.0, 'BMI': 23.1, 'Age': 63.0, 'DiabetesPedigreeFunction': 1.02, 'BloodPressure': 91.0}
+2025-02-27 11:50:27,137 INFO: \u2705 Prediction result: Diabetic
+2025-02-27 11:50:27,220 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:50:27,220 INFO: 127.0.0.1 - - [27/Feb/2025 11:50:27] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:50:30,291 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:50:30,292 DEBUG: \U0001f50d Inputs received: {'Glucose': 190.0, 'BMI': 23.1, 'Age': 63.0, 'DiabetesPedigreeFunction': 1.02, 'BloodPressure': 31.0}
+2025-02-27 11:50:30,308 INFO: \u2705 Prediction result: Diabetic
+2025-02-27 11:50:30,392 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:50:30,393 INFO: 127.0.0.1 - - [27/Feb/2025 11:50:30] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:50:33,275 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:50:33,275 DEBUG: \U0001f50d Inputs received: {'Glucose': 190.0, 'BMI': 23.1, 'Age': 63.0, 'DiabetesPedigreeFunction': 0.24, 'BloodPressure': 31.0}
+2025-02-27 11:50:33,287 INFO: \u2705 Prediction result: Diabetic
+2025-02-27 11:50:33,376 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:50:33,377 INFO: 127.0.0.1 - - [27/Feb/2025 11:50:33] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:50:36,411 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:50:36,411 DEBUG: \U0001f50d Inputs received: {'Glucose': 190.0, 'BMI': 23.1, 'Age': 36.0, 'DiabetesPedigreeFunction': 0.24, 'BloodPressure': 31.0}
+2025-02-27 11:50:36,431 INFO: \u2705 Prediction result: Diabetic
+2025-02-27 11:50:36,537 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:50:36,537 INFO: 127.0.0.1 - - [27/Feb/2025 11:50:36] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:50:40,875 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:50:40,875 DEBUG: \U0001f50d Inputs received: {'Glucose': 127.0, 'BMI': 23.1, 'Age': 36.0, 'DiabetesPedigreeFunction': 0.24, 'BloodPressure': 31.0}
+2025-02-27 11:50:40,895 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-27 11:50:40,979 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:50:40,979 INFO: 127.0.0.1 - - [27/Feb/2025 11:50:40] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:53:32,772 INFO:  * Detected change in 'C:\\Users\\hp\\Desktop\\diabetes_folder_prediction\\diabetes.py', reloading
+2025-02-27 11:53:33,020 INFO:  * Restarting with stat
+2025-02-27 11:53:36,316 INFO: \u2705 Model loaded successfully from diabetes_model2.pkl.
+2025-02-27 11:53:36,317 INFO: \U0001f680 Starting Flask application...
+2025-02-27 11:54:12,059 INFO: \u2705 Model loaded successfully from diabetes_model2.pkl.
+2025-02-27 11:54:12,059 INFO: \U0001f680 Starting Flask application...
+2025-02-27 11:54:12,079 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-27 11:54:12,079 INFO: [33mPress CTRL+C to quit[0m
+2025-02-27 11:54:15,493 INFO: \U0001f3e0 Home page accessed
+2025-02-27 11:54:15,501 INFO: 127.0.0.1 - - [27/Feb/2025 11:54:15] "GET / HTTP/1.1" 200 -
+2025-02-27 11:54:17,075 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:54:17,075 DEBUG: \U0001f50d Inputs received: {'Glucose': 120.0, 'BMI': 25.0, 'Age': 30.0, 'DiabetesPedigreeFunction': 0.5, 'BloodPressure': 80.0}
+2025-02-27 11:54:17,088 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-27 11:54:17,170 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:54:17,170 INFO: 127.0.0.1 - - [27/Feb/2025 11:54:17] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:57:00,410 INFO: \u2705 Model loaded successfully from diabetes_model2.pkl.
+2025-02-27 11:57:00,410 INFO: \U0001f680 Starting Flask application...
+2025-02-27 11:57:00,426 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-27 11:57:00,426 INFO: [33mPress CTRL+C to quit[0m
+2025-02-27 11:57:09,207 INFO: \U0001f3e0 Home page accessed
+2025-02-27 11:57:09,215 INFO: 127.0.0.1 - - [27/Feb/2025 11:57:09] "GET / HTTP/1.1" 200 -
+2025-02-27 11:57:10,819 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:57:10,819 DEBUG: \U0001f50d Inputs received: {'Glucose': 120.0, 'BMI': 25.0, 'Age': 30.0, 'DiabetesPedigreeFunction': 0.5, 'BloodPressure': 80.0}
+2025-02-27 11:57:10,831 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-27 11:57:10,906 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:57:10,906 INFO: 127.0.0.1 - - [27/Feb/2025 11:57:10] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:57:15,225 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:57:15,226 DEBUG: \U0001f50d Inputs received: {'Glucose': 120.0, 'BMI': 25.0, 'Age': 30.0, 'DiabetesPedigreeFunction': 0.5, 'BloodPressure': 62.0}
+2025-02-27 11:57:15,241 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-27 11:57:15,324 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:57:15,324 INFO: 127.0.0.1 - - [27/Feb/2025 11:57:15] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:57:19,459 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:57:19,459 DEBUG: \U0001f50d Inputs received: {'Glucose': 120.0, 'BMI': 25.0, 'Age': 30.0, 'DiabetesPedigreeFunction': 1.14, 'BloodPressure': 74.0}
+2025-02-27 11:57:19,474 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-27 11:57:19,566 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:57:19,566 INFO: 127.0.0.1 - - [27/Feb/2025 11:57:19] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:57:23,081 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:57:23,082 DEBUG: \U0001f50d Inputs received: {'Glucose': 120.0, 'BMI': 25.0, 'Age': 82.0, 'DiabetesPedigreeFunction': 1.14, 'BloodPressure': 74.0}
+2025-02-27 11:57:23,095 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-27 11:57:23,188 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:57:23,188 INFO: 127.0.0.1 - - [27/Feb/2025 11:57:23] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:57:26,170 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:57:26,170 DEBUG: \U0001f50d Inputs received: {'Glucose': 120.0, 'BMI': 18.2, 'Age': 82.0, 'DiabetesPedigreeFunction': 1.14, 'BloodPressure': 74.0}
+2025-02-27 11:57:26,188 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-27 11:57:26,275 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:57:26,275 INFO: 127.0.0.1 - - [27/Feb/2025 11:57:26] "POST /predict HTTP/1.1" 200 -
+2025-02-27 11:57:28,859 INFO: \U0001f4e9 Prediction request received
+2025-02-27 11:57:28,859 DEBUG: \U0001f50d Inputs received: {'Glucose': 93.0, 'BMI': 18.2, 'Age': 82.0, 'DiabetesPedigreeFunction': 1.14, 'BloodPressure': 74.0}
+2025-02-27 11:57:28,876 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-27 11:57:29,016 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-27 11:57:29,016 INFO: 127.0.0.1 - - [27/Feb/2025 11:57:29] "POST /predict HTTP/1.1" 200 -
+2025-02-28 09:27:31,623 INFO: \u2705 Model loaded successfully from diabetes_model2.pkl.
+2025-02-28 09:27:31,628 INFO: \U0001f680 Starting Flask application...
+2025-02-28 09:27:31,667 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-28 09:27:31,667 INFO: [33mPress CTRL+C to quit[0m
+2025-02-28 09:27:33,325 INFO: \U0001f3e0 Home page accessed
+2025-02-28 09:27:33,497 INFO: 127.0.0.1 - - [28/Feb/2025 09:27:33] "GET / HTTP/1.1" 200 -
+2025-02-28 09:27:44,829 INFO: \U0001f4e9 Prediction request received
+2025-02-28 09:27:44,829 DEBUG: \U0001f50d Inputs received: {'Glucose': 120.0, 'BMI': 25.0, 'Age': 49.0, 'DiabetesPedigreeFunction': 0.67, 'BloodPressure': 80.0}
+2025-02-28 09:27:44,878 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-28 09:27:44,927 ERROR: \u274c Error occurred: [Errno 13] Permission denied: 'C:\\Users\\hp\\Desktop\\diabetes_folder_prediction\\diabetes_predictions.xlsx'
+2025-02-28 09:27:44,927 INFO: 127.0.0.1 - - [28/Feb/2025 09:27:44] "POST /predict HTTP/1.1" 200 -
+2025-02-28 09:27:57,364 INFO: \U0001f4e9 Prediction request received
+2025-02-28 09:27:57,364 DEBUG: \U0001f50d Inputs received: {'Glucose': 120.0, 'BMI': 25.0, 'Age': 49.0, 'DiabetesPedigreeFunction': 0.67, 'BloodPressure': 80.0}
+2025-02-28 09:27:57,380 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-28 09:27:57,454 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-28 09:27:57,454 INFO: 127.0.0.1 - - [28/Feb/2025 09:27:57] "POST /predict HTTP/1.1" 200 -
+2025-02-28 09:28:04,804 INFO: \U0001f4e9 Prediction request received
+2025-02-28 09:28:04,804 DEBUG: \U0001f50d Inputs received: {'Glucose': 120.0, 'BMI': 25.0, 'Age': 57.0, 'DiabetesPedigreeFunction': 1.03, 'BloodPressure': 47.0}
+2025-02-28 09:28:04,822 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-28 09:28:04,907 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-28 09:28:04,907 INFO: 127.0.0.1 - - [28/Feb/2025 09:28:04] "POST /predict HTTP/1.1" 200 -
+2025-02-28 09:28:09,780 INFO: \U0001f4e9 Prediction request received
+2025-02-28 09:28:09,781 DEBUG: \U0001f50d Inputs received: {'Glucose': 120.0, 'BMI': 20.0, 'Age': 57.0, 'DiabetesPedigreeFunction': 1.03, 'BloodPressure': 47.0}
+2025-02-28 09:28:09,792 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-28 09:28:09,871 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-28 09:28:09,873 INFO: 127.0.0.1 - - [28/Feb/2025 09:28:09] "POST /predict HTTP/1.1" 200 -
+2025-02-28 09:28:13,491 INFO: \U0001f4e9 Prediction request received
+2025-02-28 09:28:13,492 DEBUG: \U0001f50d Inputs received: {'Glucose': 159.0, 'BMI': 20.0, 'Age': 57.0, 'DiabetesPedigreeFunction': 1.03, 'BloodPressure': 47.0}
+2025-02-28 09:28:13,507 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-28 09:28:13,589 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-28 09:28:13,589 INFO: 127.0.0.1 - - [28/Feb/2025 09:28:13] "POST /predict HTTP/1.1" 200 -
+2025-02-28 09:28:17,092 INFO: \U0001f4e9 Prediction request received
+2025-02-28 09:28:17,092 DEBUG: \U0001f50d Inputs received: {'Glucose': 159.0, 'BMI': 20.0, 'Age': 57.0, 'DiabetesPedigreeFunction': 1.03, 'BloodPressure': 65.0}
+2025-02-28 09:28:17,108 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-28 09:28:17,240 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-28 09:28:17,240 INFO: 127.0.0.1 - - [28/Feb/2025 09:28:17] "POST /predict HTTP/1.1" 200 -
+2025-02-28 09:28:19,380 INFO: \U0001f4e9 Prediction request received
+2025-02-28 09:28:19,380 DEBUG: \U0001f50d Inputs received: {'Glucose': 159.0, 'BMI': 20.0, 'Age': 57.0, 'DiabetesPedigreeFunction': 0.33, 'BloodPressure': 65.0}
+2025-02-28 09:28:19,393 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-28 09:28:19,479 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-28 09:28:19,480 INFO: 127.0.0.1 - - [28/Feb/2025 09:28:19] "POST /predict HTTP/1.1" 200 -
+2025-02-28 09:28:22,220 INFO: \U0001f4e9 Prediction request received
+2025-02-28 09:28:22,220 DEBUG: \U0001f50d Inputs received: {'Glucose': 159.0, 'BMI': 20.0, 'Age': 57.0, 'DiabetesPedigreeFunction': 0.33, 'BloodPressure': 34.0}
+2025-02-28 09:28:22,235 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-28 09:28:22,313 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-28 09:28:22,314 INFO: 127.0.0.1 - - [28/Feb/2025 09:28:22] "POST /predict HTTP/1.1" 200 -
+2025-02-28 09:28:25,749 INFO: \U0001f4e9 Prediction request received
+2025-02-28 09:28:25,750 DEBUG: \U0001f50d Inputs received: {'Glucose': 159.0, 'BMI': 20.0, 'Age': 25.0, 'DiabetesPedigreeFunction': 0.33, 'BloodPressure': 34.0}
+2025-02-28 09:28:25,761 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-28 09:28:25,836 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-28 09:28:25,836 INFO: 127.0.0.1 - - [28/Feb/2025 09:28:25] "POST /predict HTTP/1.1" 200 -
+2025-02-28 09:28:29,164 INFO: \U0001f4e9 Prediction request received
+2025-02-28 09:28:29,164 DEBUG: \U0001f50d Inputs received: {'Glucose': 159.0, 'BMI': 42.6, 'Age': 25.0, 'DiabetesPedigreeFunction': 0.33, 'BloodPressure': 34.0}
+2025-02-28 09:28:29,181 INFO: \u2705 Prediction result: Diabetic
+2025-02-28 09:28:29,264 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-28 09:28:29,264 INFO: 127.0.0.1 - - [28/Feb/2025 09:28:29] "POST /predict HTTP/1.1" 200 -
+2025-02-28 09:37:00,270 INFO: \u2705 Model loaded successfully from diabetes_model2.pkl.
+2025-02-28 09:37:00,271 INFO: \U0001f680 Starting Flask application...
+2025-02-28 09:37:00,307 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-28 09:37:00,307 INFO: [33mPress CTRL+C to quit[0m
+2025-02-28 09:37:00,309 INFO:  * Restarting with stat
+2025-02-28 09:37:03,671 INFO: \u2705 Model loaded successfully from diabetes_model2.pkl.
+2025-02-28 09:37:03,679 INFO: \U0001f680 Starting Flask application...
+2025-02-28 09:37:03,702 WARNING:  * Debugger is active!
+2025-02-28 09:37:03,977 INFO:  * Debugger PIN: 148-564-864
+2025-02-28 09:37:04,213 INFO: \U0001f3e0 Home page accessed
+2025-02-28 09:37:04,219 INFO: 127.0.0.1 - - [28/Feb/2025 09:37:04] "GET / HTTP/1.1" 200 -
+2025-02-28 09:37:08,641 INFO: \U0001f4e9 Prediction request received
+2025-02-28 09:37:08,642 DEBUG: \U0001f50d Inputs received: {'Glucose': 120.0, 'BMI': 25.0, 'Age': 30.0, 'DiabetesPedigreeFunction': 0.5, 'BloodPressure': 66.0}
+2025-02-28 09:37:08,672 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-28 09:37:08,792 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-28 09:37:08,796 INFO: 127.0.0.1 - - [28/Feb/2025 09:37:08] "POST /predict HTTP/1.1" 200 -
+2025-02-28 09:37:18,624 INFO: \U0001f4e9 Prediction request received
+2025-02-28 09:37:18,624 DEBUG: \U0001f50d Inputs received: {'Glucose': 120.0, 'BMI': 25.0, 'Age': 66.0, 'DiabetesPedigreeFunction': 1.1, 'BloodPressure': 66.0}
+2025-02-28 09:37:18,650 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-28 09:37:18,801 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-28 09:37:18,802 INFO: 127.0.0.1 - - [28/Feb/2025 09:37:18] "POST /predict HTTP/1.1" 200 -
+2025-02-28 09:46:57,914 INFO: \u2705 Model loaded successfully from diabetes_model2.pkl.
+2025-02-28 09:46:57,919 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 09:46:57,919 INFO: \U0001f680 Starting Flask application...
+2025-02-28 09:46:57,944 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-28 09:46:57,944 INFO: [33mPress CTRL+C to quit[0m
+2025-02-28 09:46:57,946 INFO:  * Restarting with stat
+2025-02-28 09:47:01,057 INFO: \u2705 Model loaded successfully from diabetes_model2.pkl.
+2025-02-28 09:47:01,063 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 09:47:01,063 INFO: \U0001f680 Starting Flask application...
+2025-02-28 09:47:01,082 WARNING:  * Debugger is active!
+2025-02-28 09:47:01,090 INFO:  * Debugger PIN: 148-564-864
+2025-02-28 09:47:01,288 INFO: \U0001f3e0 Home page accessed
+2025-02-28 09:47:01,299 INFO: 127.0.0.1 - - [28/Feb/2025 09:47:01] "GET / HTTP/1.1" 200 -
+2025-02-28 09:47:03,915 INFO: \U0001f4e9 Prediction request received
+2025-02-28 09:47:03,915 DEBUG: \U0001f50d Inputs received: {'Glucose': 120.0, 'BMI': 25.0, 'Age': 30.0, 'DiabetesPedigreeFunction': 0.5, 'BloodPressure': 80.0}
+2025-02-28 09:47:03,924 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-28 09:47:04,007 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-28 09:47:04,007 INFO: 127.0.0.1 - - [28/Feb/2025 09:47:04] "POST /predict HTTP/1.1" 200 -
+2025-02-28 09:47:08,778 INFO: \U0001f4e9 Prediction request received
+2025-02-28 09:47:08,779 DEBUG: \U0001f50d Inputs received: {'Glucose': 120.0, 'BMI': 25.7, 'Age': 30.0, 'DiabetesPedigreeFunction': 0.5, 'BloodPressure': 80.0}
+2025-02-28 09:47:08,796 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-28 09:47:08,898 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-28 09:47:08,903 INFO: 127.0.0.1 - - [28/Feb/2025 09:47:08] "POST /predict HTTP/1.1" 200 -
+2025-02-28 09:47:47,929 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 09:47:51,069 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 09:48:37,942 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 09:48:41,078 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 09:49:27,951 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 09:49:31,082 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 09:50:17,965 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 09:50:21,084 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 09:50:34,988 INFO:  * Detected change in 'C:\\Users\\hp\\Desktop\\diabetes_folder_prediction\\diabetes.py', reloading
+2025-02-28 09:50:35,200 INFO:  * Restarting with stat
+2025-02-28 09:50:38,451 INFO: \u2705 Model loaded successfully from diabetes_model2.pkl.
+2025-02-28 09:50:38,452 INFO: \U0001f680 Starting Flask application...
+2025-02-28 09:50:38,467 WARNING:  * Debugger is active!
+2025-02-28 09:50:38,469 INFO:  * Debugger PIN: 148-564-864
+2025-02-28 09:50:50,640 INFO:  * Detected change in 'C:\\Users\\hp\\Desktop\\diabetes_folder_prediction\\diabetes.py', reloading
+2025-02-28 09:50:50,860 INFO:  * Restarting with stat
+2025-02-28 09:50:54,138 INFO: \u2705 Model loaded successfully from diabetes_model2.pkl.
+2025-02-28 09:50:54,143 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 09:50:54,144 INFO: \U0001f680 Starting Flask application...
+2025-02-28 09:50:54,156 WARNING:  * Debugger is active!
+2025-02-28 09:50:54,160 INFO:  * Debugger PIN: 148-564-864
+2025-02-28 09:51:00,107 INFO: \u2705 Model loaded successfully from diabetes_model2.pkl.
+2025-02-28 09:51:00,113 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 09:51:00,113 INFO: \U0001f680 Starting Flask application...
+2025-02-28 09:51:00,139 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-28 09:51:00,140 INFO: [33mPress CTRL+C to quit[0m
+2025-02-28 09:51:00,143 INFO:  * Restarting with stat
+2025-02-28 09:51:03,398 INFO: \u2705 Model loaded successfully from diabetes_model2.pkl.
+2025-02-28 09:51:03,407 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 09:51:03,407 INFO: \U0001f680 Starting Flask application...
+2025-02-28 09:51:03,430 WARNING:  * Debugger is active!
+2025-02-28 09:51:03,432 INFO:  * Debugger PIN: 148-564-864
+2025-02-28 09:51:03,595 INFO: \U0001f3e0 Home page accessed
+2025-02-28 09:51:03,600 INFO: 127.0.0.1 - - [28/Feb/2025 09:51:03] "GET / HTTP/1.1" 200 -
+2025-02-28 09:51:04,943 INFO: \U0001f4e9 Prediction request received
+2025-02-28 09:51:04,943 DEBUG: \U0001f50d Inputs received: {'Glucose': 120.0, 'BMI': 25.0, 'Age': 30.0, 'DiabetesPedigreeFunction': 0.5, 'BloodPressure': 80.0}
+2025-02-28 09:51:04,962 INFO: \u2705 Prediction result: Non-Diabetic
+2025-02-28 09:51:05,071 INFO: \U0001f4c4 Data appended to existing Excel file.
+2025-02-28 09:51:05,071 INFO: 127.0.0.1 - - [28/Feb/2025 09:51:05] "POST /predict HTTP/1.1" 200 -
+2025-02-28 09:51:46,094 INFO:  * Detected change in 'C:\\Users\\hp\\Desktop\\diabetes_folder_prediction\\diabetes.py', reloading
+2025-02-28 09:51:46,306 INFO:  * Restarting with stat
+2025-02-28 09:51:49,862 INFO: \u2705 Model loaded successfully from diabetes_model2.pkl.
+2025-02-28 09:51:49,865 INFO: \U0001f680 Starting Flask application...
+2025-02-28 09:51:49,879 WARNING:  * Debugger is active!
+2025-02-28 09:51:49,882 INFO:  * Debugger PIN: 148-564-864
+2025-02-28 09:51:50,114 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 09:52:40,126 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 09:53:30,127 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 09:54:20,130 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 09:55:10,142 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 09:56:00,151 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 09:56:50,159 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 09:57:40,168 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 09:58:30,178 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 09:59:20,189 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:00:10,199 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:01:00,212 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:01:50,227 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:02:40,235 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:03:30,237 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:04:20,253 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:05:10,265 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:06:00,274 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:06:50,282 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:07:40,287 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:08:30,298 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:09:20,301 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:10:10,310 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:11:00,320 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:11:50,325 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:12:40,329 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:13:30,332 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:14:20,339 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:15:10,341 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:16:00,344 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:16:50,360 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:17:40,364 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:18:30,375 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:19:20,385 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:20:10,394 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:21:00,404 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:21:50,416 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:22:40,428 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:23:30,432 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:24:20,434 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:25:10,446 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:26:00,448 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:26:50,457 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:27:40,464 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:28:30,478 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:29:20,482 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:30:10,492 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:30:21,528 INFO:  * Detected change in 'C:\\Users\\hp\\Desktop\\diabetes_folder_prediction\\diabetes.py', reloading
+2025-02-28 10:30:22,042 INFO:  * Restarting with stat
+2025-02-28 10:30:26,589 INFO: Model loaded successfully from diabetes_model2.pkl.
+2025-02-28 10:30:26,591 INFO: \U0001f680 Starting Flask application...
+2025-02-28 10:30:26,610 WARNING:  * Debugger is active!
+2025-02-28 10:30:26,614 INFO:  * Debugger PIN: 148-564-864
+2025-02-28 10:31:00,499 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:31:50,509 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:32:40,518 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:33:30,530 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:34:20,534 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:35:10,547 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:36:00,556 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:36:50,570 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:37:40,586 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:38:30,590 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:39:20,598 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:40:04,493 INFO:  * Detected change in 'C:\\Users\\hp\\Desktop\\diabetes_folder_prediction\\diabetes.py', reloading
+2025-02-28 10:40:04,710 INFO:  * Restarting with stat
+2025-02-28 10:40:07,833 INFO: Model loaded successfully from diabetes_model2.pkl.
+2025-02-28 10:40:07,833 INFO: \U0001f680 Starting Flask application...
+2025-02-28 10:40:07,850 WARNING:  * Debugger is active!
+2025-02-28 10:40:07,855 INFO:  * Debugger PIN: 148-564-864
+2025-02-28 10:40:10,602 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:41:00,607 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:41:50,614 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:42:40,617 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:43:30,624 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:44:20,633 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:45:10,638 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:46:00,648 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:46:50,661 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:47:40,665 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:48:30,673 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:49:20,683 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:50:10,698 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:51:00,703 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:51:50,713 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:52:40,727 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:53:30,730 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:54:20,739 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:55:10,744 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:56:00,759 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:56:50,765 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:57:17,927 INFO:  * Detected change in 'C:\\Users\\hp\\Desktop\\diabetes_folder_prediction\\diabetes.py', reloading
+2025-02-28 10:57:18,243 INFO:  * Restarting with stat
+2025-02-28 10:57:21,638 INFO: Model loaded successfully from diabetes_model2.pkl.
+2025-02-28 10:57:21,640 INFO: Starting Flask application...
+2025-02-28 10:57:21,658 WARNING:  * Debugger is active!
+2025-02-28 10:57:21,663 INFO:  * Debugger PIN: 148-564-864
+2025-02-28 10:57:40,776 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:58:30,790 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 10:59:20,812 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 11:00:10,818 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 11:01:00,834 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 11:01:50,841 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 11:02:40,847 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 11:03:30,859 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 11:04:20,871 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 11:05:10,885 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 11:05:12,759 INFO:  * Detected change in 'C:\\Users\\hp\\Desktop\\diabetes_folder_prediction\\diabetes.py', reloading
+2025-02-28 11:05:13,094 INFO:  * Restarting with stat
+2025-02-28 11:05:18,461 INFO: Model loaded successfully from diabetes_model2.pkl.
+2025-02-28 11:05:18,461 INFO: Starting Flask application...
+2025-02-28 11:05:18,494 WARNING:  * Debugger is active!
+2025-02-28 11:05:18,500 INFO:  * Debugger PIN: 148-564-864
+2025-02-28 11:06:00,891 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 11:06:50,898 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 11:07:40,903 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 11:08:22,598 INFO:  * Detected change in 'C:\\Users\\hp\\Desktop\\diabetes_folder_prediction\\diabetes.py', reloading
+2025-02-28 11:08:22,849 INFO:  * Restarting with stat
+2025-02-28 11:08:26,792 INFO: Model loaded successfully from diabetes_model2.pkl.
+2025-02-28 11:08:26,797 INFO: Starting Flask application...
+2025-02-28 11:08:26,813 WARNING:  * Debugger is active!
+2025-02-28 11:08:26,817 INFO:  * Debugger PIN: 148-564-864
+2025-02-28 11:08:30,906 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 11:09:20,917 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 11:10:10,924 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 11:10:34,634 INFO:  * Detected change in 'C:\\Users\\hp\\Desktop\\diabetes_folder_prediction\\diabetes.py', reloading
+2025-02-28 11:10:34,842 INFO:  * Restarting with stat
+2025-02-28 11:10:38,311 INFO: Model loaded successfully from diabetes_model2.pkl.
+2025-02-28 11:10:38,314 INFO: Starting Flask application...
+2025-02-28 11:10:38,329 WARNING:  * Debugger is active!
+2025-02-28 11:10:38,334 INFO:  * Debugger PIN: 148-564-864
+2025-02-28 11:11:00,934 ERROR: keep-alive error: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.
+2025-02-28 11:11:09,034 INFO: Model loaded successfully from diabetes_model2.pkl.
+2025-02-28 11:11:09,034 INFO: Starting Flask application...
+2025-02-28 11:11:09,070 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-28 11:11:09,070 INFO: [33mPress CTRL+C to quit[0m
+2025-02-28 11:11:09,073 INFO:  * Restarting with stat
+2025-02-28 11:11:12,215 INFO: Model loaded successfully from diabetes_model2.pkl.
+2025-02-28 11:11:12,216 INFO: Starting Flask application...
+2025-02-28 11:11:12,231 WARNING:  * Debugger is active!
+2025-02-28 11:11:12,231 INFO:  * Debugger PIN: 148-564-864
+2025-02-28 11:11:15,918 INFO: Home page accessed
+2025-02-28 11:11:15,923 INFO: 127.0.0.1 - - [28/Feb/2025 11:11:15] "GET / HTTP/1.1" 200 -
+2025-02-28 11:11:17,892 INFO: \U0001f4e9 Prediction request received
+2025-02-28 11:11:17,892 DEBUG: Inputs received: {'Glucose': 120.0, 'BMI': 25.0, 'Age': 30.0, 'DiabetesPedigreeFunction': 0.5, 'BloodPressure': 80.0}
+2025-02-28 11:11:17,911 INFO: Prediction result: Non-Diabetic
+2025-02-28 11:11:18,117 INFO: Data appended to existing Excel file.
+2025-02-28 11:11:18,118 INFO: 127.0.0.1 - - [28/Feb/2025 11:11:18] "POST /predict HTTP/1.1" 200 -
+2025-02-28 11:22:02,966 INFO: Home page accessed
+2025-02-28 11:22:02,967 INFO: 127.0.0.1 - - [28/Feb/2025 11:22:02] "GET / HTTP/1.1" 200 -
+2025-02-28 11:37:15,997 INFO: Model loaded successfully from diabetes_model2.pkl.
+2025-02-28 11:37:15,999 INFO: Starting Flask application...
+2025-02-28 11:37:16,071 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-28 11:37:16,072 INFO: [33mPress CTRL+C to quit[0m
+2025-02-28 11:37:16,076 INFO:  * Restarting with stat
+2025-02-28 11:37:21,014 INFO: Model loaded successfully from diabetes_model2.pkl.
+2025-02-28 11:37:21,017 INFO: Starting Flask application...
+2025-02-28 11:37:21,035 WARNING:  * Debugger is active!
+2025-02-28 11:37:21,041 INFO:  * Debugger PIN: 148-564-864
+2025-02-28 11:37:21,276 INFO: Home page accessed
+2025-02-28 11:37:21,283 INFO: 127.0.0.1 - - [28/Feb/2025 11:37:21] "GET / HTTP/1.1" 200 -
+2025-02-28 11:37:35,913 INFO: \U0001f4e9 Prediction request received
+2025-02-28 11:37:35,913 DEBUG: Inputs received: {'Glucose': 95.0, 'BMI': 34.7, 'Age': 41.0, 'DiabetesPedigreeFunction': 0.36, 'BloodPressure': 68.0}
+2025-02-28 11:37:35,969 INFO: Prediction result: Non-Diabetic
+2025-02-28 11:37:36,055 INFO: Data appended to existing Excel file.
+2025-02-28 11:37:36,058 INFO: 127.0.0.1 - - [28/Feb/2025 11:37:36] "POST /predict HTTP/1.1" 200 -
+2025-02-28 12:55:31,153 INFO: Model loaded successfully from diabetes_model2.pkl.
+2025-02-28 12:55:31,154 INFO: Starting Flask application...
+2025-02-28 12:55:31,196 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-28 12:55:31,196 INFO: [33mPress CTRL+C to quit[0m
+2025-02-28 12:55:31,199 INFO:  * Restarting with stat
+2025-02-28 12:55:34,297 INFO: Model loaded successfully from diabetes_model2.pkl.
+2025-02-28 12:55:34,297 INFO: Starting Flask application...
+2025-02-28 12:55:34,314 WARNING:  * Debugger is active!
+2025-02-28 12:55:34,318 INFO:  * Debugger PIN: 148-564-864
+2025-02-28 12:55:36,557 INFO: Home page accessed
+2025-02-28 12:55:36,566 INFO: 127.0.0.1 - - [28/Feb/2025 12:55:36] "GET / HTTP/1.1" 200 -
+2025-02-28 12:57:14,038 INFO: \U0001f4e9 Prediction request received
+2025-02-28 12:57:14,038 DEBUG: Inputs received: {'Glucose': 148.0, 'BMI': 33.6, 'Age': 50.0, 'DiabetesPedigreeFunction': 0.62, 'BloodPressure': 72.0}
+2025-02-28 12:57:14,066 INFO: Prediction result: Diabetic
+2025-02-28 12:57:14,242 INFO: Data appended to existing Excel file.
+2025-02-28 12:57:14,242 INFO: 127.0.0.1 - - [28/Feb/2025 12:57:14] "POST /predict HTTP/1.1" 200 -
+2025-02-28 12:58:30,460 INFO: \U0001f4e9 Prediction request received
+2025-02-28 12:58:30,461 DEBUG: Inputs received: {'Glucose': 85.0, 'BMI': 26.6, 'Age': 31.0, 'DiabetesPedigreeFunction': 0.35, 'BloodPressure': 66.0}
+2025-02-28 12:58:30,479 INFO: Prediction result: Non-Diabetic
+2025-02-28 12:58:30,592 INFO: Data appended to existing Excel file.
+2025-02-28 12:58:30,592 INFO: 127.0.0.1 - - [28/Feb/2025 12:58:30] "POST /predict HTTP/1.1" 200 -
+2025-02-28 12:58:38,102 INFO: Home page accessed
+2025-02-28 12:58:38,102 INFO: 127.0.0.1 - - [28/Feb/2025 12:58:38] "GET / HTTP/1.1" 200 -
+2025-02-28 12:58:43,759 INFO: Home page accessed
+2025-02-28 12:58:43,760 INFO: 127.0.0.1 - - [28/Feb/2025 12:58:43] "GET / HTTP/1.1" 200 -
+2025-02-28 12:58:54,461 INFO: Model loaded successfully from diabetes_model2.pkl.
+2025-02-28 12:58:54,461 INFO: Starting Flask application...
+2025-02-28 12:58:54,502 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-28 12:58:54,502 INFO: [33mPress CTRL+C to quit[0m
+2025-02-28 12:58:54,506 INFO:  * Restarting with stat
+2025-02-28 12:58:57,561 INFO: Model loaded successfully from diabetes_model2.pkl.
+2025-02-28 12:58:57,561 INFO: Starting Flask application...
+2025-02-28 12:58:57,583 WARNING:  * Debugger is active!
+2025-02-28 12:58:57,585 INFO:  * Debugger PIN: 148-564-864
+2025-02-28 12:58:59,563 INFO: Home page accessed
+2025-02-28 12:58:59,572 INFO: 127.0.0.1 - - [28/Feb/2025 12:58:59] "GET / HTTP/1.1" 200 -
+2025-02-28 13:00:16,255 INFO: Model loaded successfully from diabetes_model2.pkl.
+2025-02-28 13:00:16,258 INFO: Starting Flask application...
+2025-02-28 13:00:16,283 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-28 13:00:16,283 INFO: [33mPress CTRL+C to quit[0m
+2025-02-28 13:00:16,286 INFO:  * Restarting with stat
+2025-02-28 13:00:19,677 INFO: Model loaded successfully from diabetes_model2.pkl.
+2025-02-28 13:00:19,679 INFO: Starting Flask application...
+2025-02-28 13:00:19,694 WARNING:  * Debugger is active!
+2025-02-28 13:00:19,699 INFO:  * Debugger PIN: 148-564-864
+2025-02-28 13:00:22,910 INFO: Home page accessed
+2025-02-28 13:00:22,918 INFO: 127.0.0.1 - - [28/Feb/2025 13:00:22] "GET / HTTP/1.1" 200 -
+2025-02-28 13:00:38,857 INFO: \U0001f4e9 Prediction request received
+2025-02-28 13:00:38,858 DEBUG: Inputs received: {'Glucose': 101.0, 'BMI': 19.5, 'Age': 50.0, 'DiabetesPedigreeFunction': 0.77, 'BloodPressure': 50.0}
+2025-02-28 13:00:38,890 INFO: Prediction result: Non-Diabetic
+2025-02-28 13:00:39,027 INFO: Data appended to existing Excel file.
+2025-02-28 13:00:39,027 INFO: 127.0.0.1 - - [28/Feb/2025 13:00:39] "POST /predict HTTP/1.1" 200 -
+2025-02-28 22:49:43,490 INFO: Home page accessed
+2025-02-28 22:49:43,519 INFO: 127.0.0.1 - - [28/Feb/2025 22:49:43] "GET / HTTP/1.1" 200 -
+2025-03-01 22:11:19,249 INFO: \U0001f4e9 Prediction request received
+2025-03-01 22:11:19,283 DEBUG: Inputs received: {'Glucose': 101.0, 'BMI': 19.5, 'Age': 33.0, 'DiabetesPedigreeFunction': 1.23, 'BloodPressure': 72.0}
+2025-03-01 22:11:19,579 INFO: Prediction result: Non-Diabetic
+2025-03-01 22:11:20,165 INFO: Data appended to existing Excel file.
+2025-03-01 22:11:20,171 INFO: 127.0.0.1 - - [01/Mar/2025 22:11:20] "POST /predict HTTP/1.1" 200 -
+2025-03-01 22:11:29,664 INFO: \U0001f4e9 Prediction request received
+2025-03-01 22:11:29,664 DEBUG: Inputs received: {'Glucose': 191.0, 'BMI': 31.6, 'Age': 33.0, 'DiabetesPedigreeFunction': 1.23, 'BloodPressure': 72.0}
+2025-03-01 22:11:29,699 INFO: Prediction result: Diabetic
+2025-03-01 22:11:29,839 INFO: Data appended to existing Excel file.
+2025-03-01 22:11:29,839 INFO: 127.0.0.1 - - [01/Mar/2025 22:11:29] "POST /predict HTTP/1.1" 200 -
+2025-03-01 22:40:43,346 INFO: Model loaded successfully from diabetes_model2.pkl.
+2025-03-01 22:40:43,356 INFO: Starting Flask application...
+2025-03-01 22:40:43,451 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-01 22:40:43,451 INFO: [33mPress CTRL+C to quit[0m
+2025-03-01 22:40:43,458 INFO:  * Restarting with stat
+2025-03-01 22:40:46,986 INFO: Model loaded successfully from diabetes_model2.pkl.
+2025-03-01 22:40:46,989 INFO: Starting Flask application...
+2025-03-01 22:40:47,012 WARNING:  * Debugger is active!
+2025-03-01 22:40:47,273 INFO:  * Debugger PIN: 557-742-730
+2025-03-01 22:41:39,769 INFO: Home page accessed
+2025-03-01 22:41:39,781 INFO: 127.0.0.1 - - [01/Mar/2025 22:41:39] "GET / HTTP/1.1" 200 -
+2025-03-01 22:41:42,408 INFO: 127.0.0.1 - - [01/Mar/2025 22:41:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-01 22:41:44,898 INFO: \U0001f4e9 Prediction request received
+2025-03-01 22:41:44,898 DEBUG: Inputs received: {'Glucose': 120.0, 'BMI': 25.0, 'Age': 30.0, 'DiabetesPedigreeFunction': 0.5, 'BloodPressure': 80.0}
+2025-03-01 22:41:44,944 INFO: Prediction result: Non-Diabetic
+2025-03-01 22:41:46,153 INFO: Data appended to existing Excel file.
+2025-03-01 22:41:46,153 INFO: 127.0.0.1 - - [01/Mar/2025 22:41:46] "POST /predict HTTP/1.1" 200 -
+2025-03-02 15:19:17,672 INFO: \U0001f4e9 Prediction request received
+2025-03-02 15:19:17,672 DEBUG: Inputs received: {'Glucose': 191.0, 'BMI': 44.9, 'Age': 33.0, 'DiabetesPedigreeFunction': 1.23, 'BloodPressure': 51.0}
+2025-03-02 15:19:17,695 INFO: Prediction result: Diabetic
+2025-03-02 15:19:17,867 INFO: Data appended to existing Excel file.
+2025-03-02 15:19:17,874 INFO: 127.0.0.1 - - [02/Mar/2025 15:19:17] "POST /predict HTTP/1.1" 200 -
+2025-03-02 20:13:45,850 INFO: Model loaded successfully from diabetes_model2.pkl.
+2025-03-02 20:13:45,850 INFO: Starting Flask application...
+2025-03-02 20:13:45,900 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-02 20:13:45,900 INFO: [33mPress CTRL+C to quit[0m
+2025-03-02 20:13:45,900 INFO:  * Restarting with stat
+2025-03-02 20:13:49,214 INFO: Model loaded successfully from diabetes_model2.pkl.
+2025-03-02 20:13:49,214 INFO: Starting Flask application...
+2025-03-02 20:13:49,222 WARNING:  * Debugger is active!
+2025-03-02 20:13:49,239 INFO:  * Debugger PIN: 148-564-864
+2025-03-02 20:13:49,373 INFO: Home page accessed
+2025-03-02 20:13:49,531 INFO: 127.0.0.1 - - [02/Mar/2025 20:13:49] "GET / HTTP/1.1" 200 -
+2025-03-02 20:14:06,922 INFO: \U0001f4e9 Prediction request received
+2025-03-02 20:14:06,922 DEBUG: Inputs received: {'Glucose': 123.0, 'BMI': 27.0, 'Age': 49.0, 'DiabetesPedigreeFunction': 1.05, 'BloodPressure': 70.0}
+2025-03-02 20:14:06,984 INFO: Prediction result: Diabetic
+2025-03-02 20:14:07,133 INFO: Data appended to existing Excel file.
+2025-03-02 20:14:07,133 INFO: 127.0.0.1 - - [02/Mar/2025 20:14:07] "POST /predict HTTP/1.1" 200 -
+2025-03-02 20:17:46,305 INFO: Home page accessed
+2025-03-02 20:17:46,307 INFO: 127.0.0.1 - - [02/Mar/2025 20:17:46] "GET / HTTP/1.1" 200 -
+2025-03-02 20:18:33,480 INFO: Home page accessed
+2025-03-02 20:18:33,480 INFO: 127.0.0.1 - - [02/Mar/2025 20:18:33] "GET / HTTP/1.1" 200 -
+2025-03-02 20:19:25,639 INFO: Home page accessed
+2025-03-02 20:19:25,639 INFO: 127.0.0.1 - - [02/Mar/2025 20:19:25] "GET / HTTP/1.1" 200 -
+2025-03-02 20:21:30,220 INFO: Home page accessed
+2025-03-02 20:21:30,222 INFO: 127.0.0.1 - - [02/Mar/2025 20:21:30] "GET / HTTP/1.1" 200 -
+2025-03-02 20:21:31,791 INFO: 127.0.0.1 - - [02/Mar/2025 20:21:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-02 20:22:00,463 INFO: Home page accessed
+2025-03-02 20:22:00,464 INFO: 127.0.0.1 - - [02/Mar/2025 20:22:00] "GET / HTTP/1.1" 200 -
